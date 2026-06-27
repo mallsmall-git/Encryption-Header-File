@@ -46,7 +46,7 @@ std::string generate_key() {
     return key;
 }
 
-std::string encrypt_with_key(const std::string& string, const std::string& key) {
+std::string encrypt_with_key(const std::string& string, const std::string& key) {// Substitution cipher
     std::string encrypted;
 
     for (char c : string) {
