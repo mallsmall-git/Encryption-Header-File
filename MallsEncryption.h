@@ -7,7 +7,7 @@ NOTES:
 Some ciphering techniques are not recommended, and I hope that you will use this file right and use the save methods.
 
 */
-//#pragma once
+#pragma once
 
 #include <iostream>
 #include <string>
