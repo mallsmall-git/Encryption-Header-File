@@ -4,7 +4,7 @@ Our computers only speak the language binary (machine code). Thats why there are
 The compilers turn the code (example: python) into binary code, so the computer can process it. Binary is made out of 0's and 1's,
 and to find them, we use the ASCII table.
 
-In the ASCII table there are 128 characters that range from 0 to 127. You can't see the characters from 0 to 33, because they include stuff like 'NULL' or space or tab etc.
+In the ASCII table there are 128 characters that range from 0 to 127. You can't see the characters from 0 to 32, because they include stuff like 'NULL' or space or tab etc.
 To see the ASCII table you can either search it up or print them in code. Here is a C++ example of printing all the characters in the ASCII table:
 
 for (int i = 0; i < 127; i++)
