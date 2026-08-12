@@ -5,6 +5,7 @@
 NOTES:
 
 Most ciphering or encrypting techniques are not recommended, and I hope that you will use this file right and use the save methods.
+Please don't use the key generator for now!
 
 */
 #pragma once
